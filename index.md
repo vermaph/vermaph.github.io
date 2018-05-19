@@ -6,4 +6,15 @@ Before enrolling in my masters in 2017, I have worked as a Data Analyst for a Sy
 
 I have completed my undergraduate and postgraduate degrees in engineering from [Indian Institute of Technology (IIT) - Kharagpur](http://www.iitkgp.ac.in/) in 2014. 
 
+[Email](vermaph@mail.uc.edu) | [LinkedIn](https://www.linkedin.com/in/vermaph/) | [RPub](https://rpubs.com/vermaph) | [TableauPublic](https://public.tableau.com/profile/piyush.verma#!/) | [GitHub](https://github.com/vermaph/Codes) | [StackOverFlow](https://stackoverflow.com/users/story/5750741)
+
+
+Skills:
+
+**Machine Learning:** Regression, Classification, Text-Mining, Recommender System
+**Algorithms:** Linear Regression, Logistic Regression, K Nearest Neighbour, Discriminant Analysis, Decision Tree, Random Forest, Support Vector Machine, K-Means Clustering, Hierarchical Clsutering, Dimensionality Reduction Algorithms, XGBoost
+**Programming Languages:** R, Python, C++
+**Libraries:** ggplt, tidyr, dplyr, caret, glmnet, numpy, scikit, pandas, matplotlib
+**Softwares:** Git, Jupyter Notebook, Arena for simulation, FICO Xpress, Microsoft Office, Excel, Powerpoint, Word
+**Operating System:** Windows, Linux
 
