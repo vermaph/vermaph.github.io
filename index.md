@@ -1,5 +1,3 @@
-<img src = "https://vermaph.github.io/piyush.JPG">
-
 ## Hello - Namaste - Hola - 你好!! 
 
 I am Piyush, a data analytics professional. Currently I am finishing my masters in Business Analytics from [Carl H Lindner School of Business](http://business.uc.edu/) at the University  of Cincinnati, Ohio. At UC I have taken courses in Machine Learning, Statistical Modelling, Probability Models, Statistical Methods and Optimization among many others.
