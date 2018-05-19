@@ -5,3 +5,7 @@ Hello !! I am Piyush, a data analytics professional. Currently I am finishing my
 Before enrolling in my masters in 2017, I have worked as a Data Analyst for a Sydney based management consulting firm called [Quantium Analytics](https://www.quantium.com/) from 2014 to 2017. I worked on generating competitive intelligence insights for an insurance client and supported a supermarket client in revamping their $500 million loyalty rewards program. This experience had been crucial in launching my career into data science. 
 
 I have completed my undergraduate and postgraduate degrees in engineering from [Indian Institute of Technology (IIT) - Kharagpur](http://www.iitkgp.ac.in/) in 2014. 
+
+<p align="center">
+[Email](vermaph@mail.uc.edu) | CV | [LinkedIn](https://www.linkedin.com/in/vermaph/) | [RPub](https://rpubs.com/vermaph) | [Tableau Public](https://public.tableau.com/profile/piyush.verma#!/) | [GitHub](https://github.com/vermaph/Codes) | [StackOverFlow](https://stackoverflow.com/users/story/5750741)
+</p>
