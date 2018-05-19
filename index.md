@@ -25,7 +25,7 @@ I have completed my undergraduate and postgraduate degrees in engineering from [
 After graduating from IIT Kharagpur in 2014, I worked in Quantium Analytics between 2014 and 2017. I worked in 2 different teams: *Competitive Intelligence* arm of insurance team and *Loyalty Analytics* arm of retail team.<br /> 
 
 * *Analyst, Retail, Dec 2015 - April 2017*<br />
-  *R, Teradata SQL, Excel, VBA*<br />
+  *R, Teradata SQL, Excel, VBA*<br /><br />
 Worked closely with the General Manager of the Loyalty Rewards Program of one of the Australian supermarket giant. Supported client in  understanding the health of rewards program by building couple of reporting layers centered around:<br />
   - high-level KPIs reflecting the business trend and their comparison with past quarters and years<br />
   - deep-dive analysis on how customers earn reward points through different channels<br />
@@ -42,7 +42,7 @@ Worked closely with the General Manager of the Loyalty Rewards Program of one of
 
 
 * *Analyst, Insurance, July 2014 - Dec 2015*<br />
-  *R, SQL, Excel, VBA*<br />
+  *R, SQL, Excel, VBA*<br /><br />
 Generated competitive intelligence insights for an insurance client, focusing on comprehensive car insurance. Insights enabled client to understand their online premium quotes' competitiveness among their competitors for different customer segments. I used Lasso regression to identify the factors determining the competitors' premiums. The data used for the analysis was collected by scraping multiple competitors' website for a variety of customer segments. Apart from working on the regular deliverables, I also improved the process by: 
   - Adding a layer of quality check to spot online premium discounts. For this I integrated the SQL tables with the excel. This simple idea tracked the premium for the same quote every week and if any competitor offered a new online discount, it would track it and made sure the analyst didn't miss it in the analysis.  
 
@@ -50,7 +50,8 @@ Generated competitive intelligence insights for an insurance client, focusing on
   ## Projects:
   
   **[Customer Segmentation for a retail supermarket](https://github.com/vermaph/Codes/tree/master/Pet%20Projects/Supermarket%20dashboard)**<br />
-  *[Recency-Frequency-Monetary model](https://en.wikipedia.org/wiki/RFM_(customer_value))*, *[k-medoids](https://en.wikipedia.org/wiki/K-medoids)*<br />Used Partition Around Medoids realisation of k-medoids to perform clustering of the customers (households) of a US based supermarket. The data had 3 parts: transaction data (at the product level), demographic data (of the customers) and product details data. For this project, following were the steps taken:<br />
+  *[Recency-Frequency-Monetary model](https://en.wikipedia.org/wiki/RFM_(customer_value))*, *[k-medoids](https://en.wikipedia.org/wiki/K-medoids)*<br />
+  Used Partition Around Medoids realisation of k-medoids to perform clustering of the customers (households) of a US based supermarket. The data had 3 parts: transaction data (at the product level), demographic data (of the customers) and product details data. For this project, following were the steps taken:<br />
 
     - Cleaning of bad data using SQL
     - [Tableau visualization](https://public.tableau.com/profile/piyush.verma#!/vizhome/AnalysisofaSupermarketChain/Final) for having a high level understanding on the sources of revenues by customer type, departments and product categories
@@ -59,7 +60,7 @@ Generated competitive intelligence insights for an insurance client, focusing on
 
   I extended the analysis to fit a machine learning model in an effort to predict the yearly spend of a household using the recency, frequency, monetary, basket value and household-demographics as predictors but the data/features seemed to be insufficient for a good fit.
 
-  **[Prediting text using N-Grams](https://vermaph.shinyapps.io/Nextword/)**<br />
+  **[Predicting text using N-Grams](https://vermaph.shinyapps.io/Nextword/)**<br />
   *N-Grams, Text Mining, R Shiny, R*<br />
   Built an interactive R Shiny web application where a user can enter a string of text and the application would predict the next word. The algorithm used here is Katz Back-Off which uses the conditional probability of a N-Gram. This was done as a capstone project for a 10 course [Data Science Specialization certificate](https://www.coursera.org/account/accomplishments/specialization/6UFAFQ6NL8TA) from John Hopkins University in Coursera.
   
