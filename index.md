@@ -1,4 +1,4 @@
-## Piyush Verma
+
 
 I am a data analytics professional. Currently I am finishing my masters in Business Analytics from [Carl H Lindner School of Business at the University](http://business.uc.edu/) of Cincinnati, Ohio. With my masters degree at UC, I am transitioning from Data Analyst to a Data Scientist. At UC I have taken courses in Machine Learning, Statistical Modelling, Probability Models, Statistical Methods and Optimization among many others.
 
