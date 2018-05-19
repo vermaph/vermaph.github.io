@@ -6,9 +6,7 @@ Before enrolling in my masters in 2017, I have worked as a Data Analyst for a Sy
 
 I have completed my undergraduate and postgraduate degrees in engineering from [Indian Institute of Technology (IIT) - Kharagpur](http://www.iitkgp.ac.in/) in 2014. 
 
-<p align="center">
-<b>Links:</b><br>
-  
-[Email](vermaph@mail.uc.edu) | CV | [LinkedIn](https://www.linkedin.com/in/vermaph/) | [RPub](https://rpubs.com/vermaph) | [Tableau Public](https://public.tableau.com/profile/piyush.verma#!/) | [GitHub](https://github.com/vermaph/Codes) | [StackOverFlow](https://stackoverflow.com/users/story/5750741)
-<br><br>
-</p>
+<p align="center">[Email](vermaph@mail.uc.edu)</p>
+
+
+| CV | [LinkedIn](https://www.linkedin.com/in/vermaph/) | [RPub](https://rpubs.com/vermaph) | [Tableau Public](https://public.tableau.com/profile/piyush.verma#!/) | [GitHub](https://github.com/vermaph/Codes) | [StackOverFlow](https://stackoverflow.com/users/story/5750741)
