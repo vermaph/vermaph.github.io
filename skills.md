@@ -1,5 +1,4 @@
 <br />
-<br />
 
 
 ### [About Me](https://vermaph.github.io/)&nbsp; &nbsp; &nbsp;[Skills](./skills.html)&nbsp; &nbsp; &nbsp;[Professional Experience](./experience.html)&nbsp; &nbsp; &nbsp;[Projects](./projects.html)<br />
