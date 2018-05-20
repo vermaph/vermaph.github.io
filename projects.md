@@ -1,4 +1,7 @@
-  **[Customer Segmentation for a retail supermarket](https://github.com/vermaph/Codes/tree/master/Pet%20Projects/Supermarket%20dashboard)**<br />
+[About Me](./index.html)&nbsp; &nbsp; &nbsp;[Skills](./skills.html)&nbsp; &nbsp; &nbsp;[Professional Experience](./experience.html)&nbsp; &nbsp; &nbsp;[Projects](./projects.html)<br />
+
+
+**[Customer Segmentation for a retail supermarket](https://github.com/vermaph/Codes/tree/master/Pet%20Projects/Supermarket%20dashboard)**<br />
   *Recency Frequency Monetary model*, *k-medoids*<br />
   Used Partition Around Medoids realisation of [k-medoids](https://en.wikipedia.org/wiki/K-medoids) to perform clustering of the customers (households) of a US based supermarket. The data had 3 parts: transaction data (at the product level), demographic data (of the customers) and product details data. For this project, following were the steps taken:<br />
 
