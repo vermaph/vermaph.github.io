@@ -1,5 +1,5 @@
 
-[About Me](./index.html)     [Skills](./skills.html)    [Professional Experience](./experience.html)     [Projects](./projects.html)<br />
+[About Me](./index.html)&nbsp; &nbsp; &nbsp;[Skills](./skills.html)    [Professional Experience](./experience.html)     [Projects](./projects.html)<br />
 
 ## Hello - नमस्ते - Hola - 你好!! 
 
