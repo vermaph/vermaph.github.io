@@ -1,5 +1,5 @@
 
-[About Me](https://vermaph.github.io/)     Skills    Professional Experience     Projects<br />
+[About Me](./index.html)     [Skills](./skills.html)    [Professional Experience](./experience.html)     [Projects](./projects.html)<br />
 
 ## Hello - नमस्ते - Hola - 你好!! 
 
