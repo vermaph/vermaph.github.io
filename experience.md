@@ -1,3 +1,6 @@
+[About Me](./index.html)&nbsp; &nbsp; &nbsp;[Skills](./skills.html)&nbsp; &nbsp; &nbsp;[Professional Experience](./experience.html)&nbsp; &nbsp; &nbsp;[Projects](./projects.html)<br />
+
+
 After graduating from IIT Kharagpur in 2014, I worked in Quantium Analytics between 2014 and 2017. I worked in 2 different teams: *Competitive Intelligence* arm of insurance team and *Loyalty Analytics* arm of retail team.<br /> 
 
 * *Analyst, Retail, Dec 2015 - April 2017*<br />
