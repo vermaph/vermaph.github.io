@@ -1,3 +1,6 @@
+[About Me](./index.html)&nbsp; &nbsp; &nbsp;[Skills](./skills.html)&nbsp; &nbsp; &nbsp;[Professional Experience](./experience.html)&nbsp; &nbsp; &nbsp;[Projects](./projects.html)<br />
+
+
 * **Machine Learning:** Regression, Classification, Text-Mining, Recommender System  <br />
 * **Algorithms:** Linear Regression, Logistic Regression, K Nearest Neighbour, Discriminant Analysis, Decision Tree, Random Forest, Support Vector Machine, K-Means Clustering, Hierarchical Clsutering, Dimensionality Reduction Algorithms, XGBoost  <br />
 * **Programming Languages:** R, Python, SQL, Teradata, C++  <br />
