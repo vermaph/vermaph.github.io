@@ -11,3 +11,6 @@ I am Piyush, a data analytics professional. Currently I am finishing my masters 
 Before enrolling in my masters in 2017, I have worked as a Data Analyst for a Sydney based management consulting firm called [Quantium Analytics](https://www.quantium.com/) from 2014 to 2017. I worked on generating competitive intelligence insights for an insurance client and supported a supermarket client in revamping their $500 million loyalty rewards program. This experience had been crucial in launching my career into data science. I have worked in India and Australia and I am currently in USA for my higher studies. 
 
 I have completed my undergraduate and postgraduate degrees in engineering from [Indian Institute of Technology (IIT) - Kharagpur](http://www.iitkgp.ac.in/) in 2014. 
+
+<audio src="vermaph.github.io/Miles Davis - All Blues Audio.mp3" controls preload></audio>
+
