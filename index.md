@@ -12,5 +12,5 @@ Before enrolling in my masters in 2017, I have worked as a Data Analyst for a Sy
 
 I have completed my undergraduate and postgraduate degrees in engineering from [Indian Institute of Technology (IIT) - Kharagpur](http://www.iitkgp.ac.in/) in 2014. 
 
-<audio src="vermaph.github.io/Miles Davis - All Blues Audio.mp3" controls preload></audio>
+
 
