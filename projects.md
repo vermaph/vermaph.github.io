@@ -20,4 +20,4 @@
   
   **[Classification of dysfunctional stores]()**<br />
   *K-means clustering, Hypothesis Testing, HR Analytics*<br />
-  Worked on a case study project with a local retail client in Cincinnati. The aim of the project was to identify potential stores which may go dysfuntional becaue of employee activities in the near future. The data used for the analysis was at the store level having attributes related to employees. The recommendations give nto the client were well received and were in-line with the expectations. 
+  Worked on a case study project with a retail client in Cincinnati. The aim of the project was to identify its potential stores which may go dysfuntional in the near future because of any kind of activities related to dissatisfied employees. The data used for the analysis was at the store level having attributes related to employees. The recommendations given to the client were well received and were in-line with their expectations. 
