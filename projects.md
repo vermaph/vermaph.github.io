@@ -10,9 +10,7 @@
  - Cleaning of bad data using SQL
  - [Tableau visualization](https://public.tableau.com/profile/piyush.verma#!/vizhome/AnalysisofaSupermarketChain/Final) for having a high level understanding on the sources of revenues by customer type, departments and product categories
  - Creating a clean view in SQL with new KPIs for Basket Value (=Total Yearly Sales/Total Yearly Visits), Recency, Frequency, and Monetary for each household
- - Clustering in R by calcualting the dissimialrities using the gower distance
-
-  I extended the analysis to fit a machine learning model in an effort to predict the yearly spend of a household using the recency, frequency, monetary, basket value and household-demographics as predictors but the data/features seemed to be insufficient for a good fit.
+ - Clustering in R by calculating the dissimialrities using the gower distance
 
   **[Predicting text using N-Grams](https://vermaph.shinyapps.io/Nextword/)**<br />
   *N-Grams, Text Mining, R Shiny, R*<br />
