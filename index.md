@@ -15,7 +15,7 @@ Before enrolling in my masters in 2017, I have worked as a Data Analyst for a Sy
 I have completed my undergraduate and postgraduate degrees in engineering from [Indian Institute of Technology (IIT) - Kharagpur](http://www.iitkgp.ac.in/) in 2014. 
 
 
-### Professional Experience
+## Professional Experience
 
 After graduating from IIT Kharagpur in 2014, I worked in Quantium Analytics between 2014 and 2017. I worked in 2 different teams: *Competitive Intelligence* arm of insurance team and *Loyalty Analytics* arm of retail team.<br /> 
 
@@ -42,7 +42,7 @@ Generated competitive intelligence insights for an insurance client, focusing on
   - Adding a layer of quality check to spot online premium discounts. For this I integrated the SQL tables with the excel. This simple idea tracked the premium for the same quote every week and if any competitor offered a new online discount, it would track it and made sure the analyst didn't miss it in the analysis.  
   
  
- ### Skills
+## Skills
  
  * **Machine Learning:** Regression, Classification, Text-Mining, Recommender System  <br />
 * **Algorithms:** Linear Regression, Logistic Regression, K Nearest Neighbour, Discriminant Analysis, Decision Tree, Random Forest, Support Vector Machine, K-Means Clustering, Hierarchical Clsutering, Dimensionality Reduction Algorithms, XGBoost  <br />
@@ -52,7 +52,7 @@ Generated competitive intelligence insights for an insurance client, focusing on
 * **Operating System:** Windows, Linux  <br />
 
 
-### Projects 
+## Projects 
 
 **[Customer Segmentation for a retail supermarket](https://github.com/vermaph/Codes/tree/master/Pet%20Projects/Supermarket%20dashboard)**<br />
   *Recency Frequency Monetary model*, *k-medoids*<br />
