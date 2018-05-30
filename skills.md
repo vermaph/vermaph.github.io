@@ -10,3 +10,6 @@
 * **Libraries:** ggplt, tidyr, dplyr, caret, glmnet, numpy, scikit, pandas, matplotlib  <br />
 * **Softwares:** Git, Tableau, R Shiny, Jupyter Notebook, Arena for simulation, FICO Xpress, Microsoft Office, Excel, Powerpoint, Word  <br />
 * **Operating System:** Windows, Linux  <br />
+</br>
+</br>
+* **[Data Science Specialization:](https://www.coursera.org/account/accomplishments/specialization/6UFAFQ6NL8TA)**  A 10-course specialization by Johns Hopkins University on Coursera. Specialization Certificate earned on March 25, 2018
