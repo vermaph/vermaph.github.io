@@ -7,8 +7,10 @@
 
 After graduating from IIT Kharagpur in 2014, I worked in Quantium Analytics between 2014 and 2017. I worked in 2 different teams: *Competitive Intelligence* arm of insurance team and *Loyalty Analytics* arm of retail team.<br /> 
 
- **Analyst, Retail, Dec 2015 - April 2017**<br />
-  *R, Teradata SQL, Excel, VBA*<br /><br />
+<br />
+
+**Analyst, Retail, Dec 2015 - April 2017<br />**
+  *R, Teradata SQL, Excel, VBA, Spark*<br /><br />
 Worked closely with the General Manager of the Loyalty Rewards Program of one of the Australian supermarket giant. Supported client in  understanding the health of rewards program by building couple of reporting layers centered around:<br />
   - high-level KPIs reflecting the business trend and their comparison with past quarters and years<br />
   - deep-dive analysis on how customers earn reward points through different channels<br />
@@ -23,6 +25,7 @@ Worked closely with the General Manager of the Loyalty Rewards Program of one of
   - introduction of a base rewards earn rate of 5% for every customer on every transaction<br />
   - scanning of loyalty cards from active customers increased by ~5%. Which meant more transactions can be linked to customer's shopping behavior. 
 
+<br />
 
  **Analyst, Insurance, July 2014 - Dec 2015**<br />
   *R, SQL, Excel, VBA*<br /><br />
