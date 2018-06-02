@@ -5,7 +5,7 @@
 
 <br/>
 
-After graduating from IIT Kharagpur in 2014, I worked in Quantium Analytics between 2014 and 2017. I worked in 2 different teams: *Competitive Intelligence* arm of insurance team and *Loyalty Analytics* arm of retail team.<br /> 
+After graduating from IIT Kharagpur in 2014, I worked in Quantium Analytics between 2014 and 2017. I worked in 2 different teams: **Competitive Intelligence** arm of insurance team and **Loyalty Analytics** arm of retail team.<br /> 
 
 <br />
 
