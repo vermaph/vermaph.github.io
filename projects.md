@@ -6,11 +6,11 @@
 <br />
 
 **[Classification of dysfunctional stores](https://www.slideshare.net/piyushvermaiitkgp/process-simulation-study-of-order-processing-at-starbucks-university-of-cincinnati)**<br />
-  *K-means clustering, Hypothesis Testing, HR Analytics*<br />
+  *R, K-means clustering, Hypothesis Testing, HR Analytics*<br />
   Worked on a case study project with a retail client in Cincinnati. The aim of the project was to identify its potential stores which may go dysfuntional in the near future because of any kind of activities related to dissatisfied employees. The data used for the analysis was at the store level having attributes related to employees. The recommendations given to the client were well received and were in-line with their expectations. 
   
 **[Predicting text using N-Grams](https://vermaph.shinyapps.io/Nextword/)**<br />
-  *N-Grams, Text Mining, R Shiny, R*<br />
+  *R, R Shiny, N-Grams, Text Mining*<br />
   Built an interactive R Shiny web application where a user can enter a string of text and the application would predict the next word. The algorithm used here is Katz Back-Off which uses the conditional probability of a N-Gram. This was done as a capstone project for a 10 course [Data Science Specialization certificate](https://www.coursera.org/account/accomplishments/specialization/6UFAFQ6NL8TA) from John Hopkins University in Coursera.
 
 **[Classification of the type of exercise based on fitness device data](https://rpubs.com/vermaph/393416)**<br/>
@@ -18,13 +18,9 @@
   Used classification tenchiques to identify the type of the exercise (Best > Good > Medium > Bad > Worst) based on data collected from fitness device data
 
 **[Process simulation study of order processing at Starbucks University of Cincinnati](https://www.slideshare.net/piyushvermaiitkgp/process-simulation-study-of-order-processing-at-starbucks-university-of-cincinnati)**<br/>
- *Statistics, Simulation modelling, Arena*
+ *Arena software, Statistics, Simulation modelling*<br />
  Used Arena software to simulate the order processing at the Starbucks. The study suggested recommending an additional beverage server during peak hours (11:30 AM - 1:00 PM) reducing the average customer waiting time by 4 minutes. Addition of an extra cashier or food server had no affect.
 
 **[Customer Segmentation for a retail supermarket](https://github.com/vermaph/Codes/tree/master/Pet%20Projects/Supermarket%20dashboard)**<br />
-  *Customer Value Model*, *K-medoids*<br />
+  *R, SQL, Tableau, K-means Clustering, Customer Value Model*<br />
   Used Partition Around Medoids realisation of [K-medoids](https://en.wikipedia.org/wiki/K-medoids) to perform clustering of the customers (households) of a US based supermarket. The data had 3 parts: transaction data (at the product level), demographic data (of the customers) and product details data. For this project, following were the steps taken:<br />
- - Cleaning of bad data using SQL
- - [Tableau visualization](https://public.tableau.com/profile/piyush.verma#!/vizhome/AnalysisofaSupermarketChain/Final) for having a high level understanding on the sources of revenues by customer type, departments and product categories
- - Creating a clean view in SQL with new KPIs for Basket Value (=Total Yearly Sales/Total Yearly Visits), Recency, Frequency, and Monetary for each household
- - Clustering in R by calculating the dissimialrities using the gower distance
