@@ -3,6 +3,8 @@
 
 ### [About Me](https://vermaph.github.io/)&nbsp; &nbsp; &nbsp;[Skills](./skills.html)&nbsp; &nbsp; &nbsp;[Professional Experience](./experience.html)&nbsp; &nbsp; &nbsp;[Projects](./projects.html)<br />
 
+<br />
+
 ### Certificate: 
 * **Data Science Specialization:**  A 10-course specialization by Johns Hopkins University on Coursera. Specialization Certificate earned on March 25, 2018. Link to certificate [here](https://www.coursera.org/account/accomplishments/specialization/6UFAFQ6NL8TA).
 
