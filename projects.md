@@ -3,6 +3,7 @@
 
 ### [About Me](https://vermaph.github.io/)&nbsp; &nbsp; &nbsp;[Skills](./skills.html)&nbsp; &nbsp; &nbsp;[Professional Experience](./experience.html)&nbsp; &nbsp; &nbsp;[Projects](./projects.html)<br />
 
+<br />
 
 **[Customer Segmentation for a retail supermarket](https://github.com/vermaph/Codes/tree/master/Pet%20Projects/Supermarket%20dashboard)**<br />
   *Customer Value Model*, *K-medoids*<br />
