@@ -5,7 +5,11 @@
 
 <br />
 
-**[Classification of dysfunctional stores](https://www.slideshare.net/piyushvermaiitkgp/process-simulation-study-of-order-processing-at-starbucks-university-of-cincinnati)**<br />
+**[Customer Segmentation for a retail supermarket]()**<br />
+  *R, SQL, Tableau, K-means Clustering, Customer Value Model*<br />
+  Used Partition Around Medoids realisation of [K-medoids](https://en.wikipedia.org/wiki/K-medoids) (simialr to K-Means) to perform customer segmentation of the customers (households) of a US based supermarket. The data had 3 parts: transaction data (at the product level), demographic data (of the customers) and product details data. First the Customer Value Model was made to give each houshold three attributes: Rececny, Freqeuncy and Monetary and then clustering was performed. Code files can be found [here](https://github.com/vermaph/Codes/tree/master/Pet%20Projects/Supermarket%20dashboard). <br />
+
+**Classification of dysfunctional stores**<br />
   *R, K-means clustering, Hypothesis Testing, HR Analytics*<br />
   Worked on a case study project with a retail client in Cincinnati. The aim of the project was to identify its potential stores which may go dysfuntional in the near future because of any kind of activities related to dissatisfied employees. The data used for the analysis was at the store level having attributes related to employees. The recommendations given to the client were well received and were in-line with their expectations. 
   
@@ -20,7 +24,3 @@
 **[Process simulation study of order processing at Starbucks University of Cincinnati](https://www.slideshare.net/piyushvermaiitkgp/process-simulation-study-of-order-processing-at-starbucks-university-of-cincinnati)**<br/>
  *Arena software, Statistics, Simulation modelling*<br />
  Used Arena software to simulate the order processing at the Starbucks. The study suggested recommending an additional beverage server during peak hours (11:30 AM - 1:00 PM) reducing the average customer waiting time by 4 minutes. Addition of an extra cashier or food server had no affect.
-
-**[Customer Segmentation for a retail supermarket](https://github.com/vermaph/Codes/tree/master/Pet%20Projects/Supermarket%20dashboard)**<br />
-  *R, SQL, Tableau, K-means Clustering, Customer Value Model*<br />
-  Used Partition Around Medoids realisation of [K-medoids](https://en.wikipedia.org/wiki/K-medoids) to perform clustering of the customers (households) of a US based supermarket. The data had 3 parts: transaction data (at the product level), demographic data (of the customers) and product details data. For this project, following were the steps taken:<br />
