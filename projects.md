@@ -14,6 +14,7 @@
 **[Predicting text using N-Grams](https://vermaph.shinyapps.io/Nextword/)**<br />
   *R, R Shiny, N-Grams, Text Mining*<br />
   Built an interactive R Shiny web application where a user can enter a string of text and the application would predict the next word. The algorithm used here is Katz Back-Off which uses the conditional probability of a N-Gram. This was done as a capstone project for a 10 course [Data Science Specialization certificate](https://www.coursera.org/account/accomplishments/specialization/6UFAFQ6NL8TA) from John Hopkins University in Coursera.
+![](https://github.com/vermaph/04-Projects/blob/master/Predicting%20text%20using%20N-Grams/Reports%20and%20Presentation/App_GIF.gif?raw=true)
 
 **Classification of dysfunctional stores**<br />
   *R, K-means clustering, Hypothesis Testing, HR Analytics*<br />
