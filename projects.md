@@ -26,3 +26,5 @@
 **[Process simulation study of order processing at Starbucks University of Cincinnati](https://www.slideshare.net/piyushvermaiitkgp/process-simulation-study-of-order-processing-at-starbucks-university-of-cincinnati)**<br/>
  *Arena software, Statistics, Simulation modelling*<br />
  Used Arena software to simulate the order processing at the Starbucks. The study suggested recommending an additional beverage server during peak hours (11:30 AM - 1:00 PM) reducing the average customer waiting time by 4 minutes. Addition of an extra cashier or food server had no affect.
+ 
+ ![](https://github.com/vermaph/04-Projects/blob/master/Process%20simulation%20study%20of%20order%20processing%20at%20Starbucks%20University%20of%20Cincinnati/Simulation_GIF.gif?raw=true)
