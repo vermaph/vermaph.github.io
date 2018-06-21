@@ -7,7 +7,7 @@
 
 **[Customer Segmentation for a retail supermarket](http://rpubs.com/vermaph/395036)**<br />
   *R, SQL, Tableau, K-means Clustering, Customer Value Model*<br />
-  Used Partition Around Medoids realisation of [K-medoids](https://en.wikipedia.org/wiki/K-medoids) clustering algorithm (similar to K-Means algorithm) to perform customer segmentation of the customers (households) of a US based supermarket. The data had 3 parts: transaction data (at the product level), demographic data (of the customers) and product details data. First the Customer Value Model was made to give each houshold three attributes: Rececny, Freqeuncy and Monetary and then clustering was performed.<br />
+  Used Partition Around Medoids realisation of [K-medoids](https://en.wikipedia.org/wiki/K-medoids) clustering algorithm (similar to K-Means algorithm) to perform customer segmentation of the customers (households) of a US-based supermarket. The data had 3 parts: transaction data (at the product level), demographic data (of the customers) and product details data. First, the Customer Value Model was made to give each household three attributes: Recency, Frequency and Monetary and then clustering was performed.<br />
   Code files can be found [here](https://github.com/vermaph/Codes/tree/master/Pet%20Projects/Supermarket%20dashboard). <br />
   Tableau visualization can be found [here](https://public.tableau.com/profile/piyush.verma#!/vizhome/AnalysisofaSupermarketChain/Final).
 
