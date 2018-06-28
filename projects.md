@@ -5,6 +5,11 @@
 
 <br />
 
+
+**[Claim risk analytics for an insurance company](http://rpubs.com/vermaph/400537)**<br />
+   *R, Logistic Regression, Random Forest, XGBoost and K-Medoid Clustering*<br />
+   Identifying potentially risky and non-risky new insurance policies and segmenting them according to their risks using Logistic Regression, Random Forest, XGBoost and K-Medoid clustering.
+
 **[Customer Segmentation for a retail supermarket](http://rpubs.com/vermaph/395036)**<br />
   *R, SQL, Tableau, K-means Clustering, Customer Value Model*<br />
   Used Partition Around Medoids realisation of [K-medoids](https://en.wikipedia.org/wiki/K-medoids) clustering algorithm (similar to K-Means algorithm) to perform customer segmentation of the customers (households) of a US-based supermarket. The data had 3 parts: transaction data (at the product level), demographic data (of the customers) and product details data. First, the Customer Value Model was made to give each household three attributes: Recency, Frequency and Monetary and then clustering was performed.<br />
