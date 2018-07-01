@@ -6,9 +6,6 @@
 <br />
 
 
-**[Claim risk analytics for an insurance company](http://rpubs.com/vermaph/400537)**<br />
-   *R, Logistic Regression, Random Forest, XGBoost and K-Medoid Clustering*<br />
-   Identifying potentially risky / non-risky new insurance policies, estimating cost per claims and segmenting customers according to their claim risks using Logistic Regression, Random Forest, XGBoost and K-Medoid clustering.
 
 **[Customer Segmentation for a retail supermarket](http://rpubs.com/vermaph/395036)**<br />
   *R, SQL, Tableau, K-means Clustering, Customer Value Model*<br />
