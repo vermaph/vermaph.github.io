@@ -25,7 +25,7 @@ Worked closely with the General Manager of the Loyalty Rewards Program of one of
   - Chain of insights led client to revamp its $500 million loyalty rewards program and introduced a 0.5% default cash back on every loyalty card linked transaction<br />
   - Revamping loyalty program improved scanning of loyalty cards by 5% (~450,000 more linked transactions every week)<br />
 
-
+<br />
 
  **Graduate Analyst, Insurance, July 2014 - Dec 2015**<br />
   *R, SQL, Excel, VBA*<br /><br />
