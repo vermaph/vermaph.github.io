@@ -26,6 +26,7 @@ Worked closely with the General Manager of the Loyalty Rewards Program of one of
   - Revamping loyalty program improved scanning of loyalty cards by 5% (~450,000 more linked transactions every week)<br />
 
 
+
  **Graduate Analyst, Insurance, July 2014 - Dec 2015**<br />
   *R, SQL, Excel, VBA*<br /><br />
 Generated competitive intelligence insights for an insurance client, focusing on comprehensive car insurance. Insights enabled client to understand their competitiveness against other competitors. I mainly used Lasso Regression technique to identify the factors determining a competitor's premiums. The data used for the analysis was collected by scraping multiple competitors' website for a number of customer segments. Apart from working on the regular deliverables, I also improved the process by: 
