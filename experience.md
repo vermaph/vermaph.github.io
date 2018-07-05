@@ -7,8 +7,6 @@
 
 After graduating from IIT Kharagpur in 2014, I worked in Quantium Analytics between 2014 and 2017. I worked in 2 different teams: **Competitive Intelligence** arm of insurance team and **Loyalty Analytics** arm of retail team.<br /> 
 
-<br />
-
 **Loyalty Analytics Team<br />**
   *R, Teradata SQL, Excel, VBA, Spark*<br /><br />
 Worked closely with the General Manager of the Loyalty Rewards Program of one of the Australian supermarket giant. Projects were related to understanding the engagement of the shoppers with the loyalty program, customer segmentation and creating reporting layers. Some of the tasks were:<br />
