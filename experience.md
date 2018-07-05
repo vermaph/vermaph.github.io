@@ -19,7 +19,8 @@ Worked closely with the General Manager of the Loyalty Rewards Program of one of
   - moving to Sydney-Australia as a **Subject Matter Expert** (2016)<br />
   - Leding a team of software developers and business analysts to deploy the Quantium Solution in-house (Sydney, Australia)<br />
   - Performing customer segmentation based on customers’ shopping pattern using customer value & share of wallet models<br />
-  - Programming stored procedures in Teradata SQL to create reproducible code pipelines to refresh segments weekly
+  - Programming stored procedures in Teradata SQL to create reproducible code pipelines to refresh segments weekly<br />
+        
         **Results**:<br />
   - Chain of insights led client to revamp its $500 million loyalty rewards program and introduced a 0.5% default cash back on every loyalty card linked transaction<br />
   - Revamping loyalty program improved scanning of loyalty cards by 5% (~450,000 more linked transactions every week)<br />
