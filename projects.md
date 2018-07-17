@@ -7,6 +7,12 @@
 
 
 
+**[Music recommendation based on collaborative filtering](https://github.com/vermaph/04-Projects/blob/master/Music%20Recommendation%20System/Main_Code.R)**<br />
+As the part of the capstone project, I used [Last.FM](https://www.last.fm/) data, a music streaming website, which contained data about a user's preference in music. Compared different recommenders (User-Based, Item-Based, and Singular Value Decomposition, SVD) to recommend new artists to a user based on his/her similarity in music taste with other similar users. User-Based Collaborative Filtering was found to be giving better recommendations. Check out the final report [here](https://github.com/vermaph/04-Projects/blob/master/Music%20Recommendation%20System/Final%20Files/Verma_Piyush_Capstone_Final_Draft.pdf). 
+
+**[Claim risk analytics for an insurance company](https://rpubs.com/vermaph/404011)**
+Part of a data challenge to identify potentially risky new insurance policies based on factors like claim history and customer's demographics. Also to segment risky customers into several segments based on their risk values so as to target for a marketing campaign. 
+
 **[Customer Segmentation for a retail supermarket](http://rpubs.com/vermaph/395036)**<br />
   *R, SQL, Tableau, K-means Clustering, Customer Value Model*<br />
   Used Partition Around Medoids realisation of [K-medoids](https://en.wikipedia.org/wiki/K-medoids) clustering algorithm (similar to K-Means algorithm) to perform customer segmentation of the customers (households) of a US-based supermarket. The data had 3 parts: transaction data (at the product level), demographic data (of the customers) and product details data. First, the Customer Value Model was made to give each household three attributes: Recency, Frequency and Monetary and then clustering was performed.<br />
