@@ -10,18 +10,19 @@ After graduating from IIT Kharagpur in 2014, I worked in Quantium Analytics betw
 **Loyalty Analytics Team<br />**
   *R, Teradata SQL, Excel, VBA, Spark*<br /><br />
 Worked closely with the General Manager of the Loyalty Rewards Program of one of the Australian supermarket giant. Projects were related to understanding the engagement of the shoppers with the loyalty program, customer segmentation and creating reporting layers. Some of the tasks were:<br />
-  - Building propensity models to target customers most likely to buy a product in the next campaign<br />
-  - Performing Customer Churn analysis to identify at risk customers soon to lapse based on historical shopping data<br /> 
-  - Creating an excel based customer health dashboard with 150+ KPI to identify gaps and profitable channels in the loyalty rewards program<br />
-  - Analyzing billion rows of data collected from the loyalty card transactions done by supermarket shoppers<br />
-  - moving to Sydney-Australia as a **Subject Matter Expert** (2016)<br />
-  - Leading a team of software developers and business analysts to deploy the Quantium Solution in-house (Sydney, Australia)<br />
-  - Performing customer segmentation based on customers’ shopping pattern using customer value & share of wallet models<br />
-  - Programming stored procedures in Teradata SQL to create reproducible code pipelines to refresh segments weekly<br />
+
+  - Performed customer segmentation based on customers’ shopping pattern using customer value & share of wallet models<br />
+  - Analyzed a billion rows of card transaction data done by loyalty card holders generating meaningful insights<br />
+  - Programmed stored procedures in Teradata SQL creating reproducible code pipelines to refresh segments weekly<br />
+  - Created excel based customer health dashboard with 150 KPI to identify gaps and profitable channels in the rewards program<br />
+  - Promoted to Sydney Australia as a Subject Matter Expert (2016)<br />
+  - Led a team of software developers and business analysts to deploy the Quantium Solution in-house (Sydney, Australia)<br />
+  - Supported the marketing team in various promotion campaigns with customer insights using personalization results<br />
         
        **Results**:<br />
-  - Chain of insights led client to revamp its $500 million loyalty rewards program and introduced a 0.5% default cash back on every loyalty card linked transaction<br />
-  - Revamping loyalty program improved scanning of loyalty cards by 5% (~450,000 more linked transactions every week)<br />
+  - Chain of insights led the client to revamp its $500 million loyalty rewards program and introduced a 0.5% default cash back on every loyalty card linked transaction<br />
+  - Revamping rewards program improved scanning of loyalty cards by 5% (~450,000 more linked transactions every week)<br />
+  - A continuous increase in number of active shoppers base since launch<br />
 
 <br />
 
