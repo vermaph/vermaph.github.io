@@ -15,7 +15,7 @@ Worked closely with the General Manager of the Loyalty Rewards Program of one of
   - Analyzed a billion rows of card transaction data done by loyalty card holders generating meaningful insights<br />
   - Programmed stored procedures in Teradata SQL creating reproducible code pipelines to refresh segments weekly<br />
   - Created excel based customer health dashboard with 150 KPI to identify gaps and profitable channels in the rewards program<br />
-  - Promoted to Sydney Australia as a Subject Matter Expert (2016)<br />
+  - Got promoted to Sydney Australia as a **Subject Matter Expert (2016)**<br />
   - Led a team of software developers and business analysts to deploy the Quantium Solution in-house (Sydney, Australia)<br />
   - Supported the marketing team in various promotion campaigns with customer insights using personalization results<br />
         
