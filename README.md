@@ -11,12 +11,12 @@ I am data science professional with 5 years in the field: 4 years in an industri
   2.  automating reports to track the business health
   3.  building analytical frameworks to attack the business problems:
   
-        -*Banking*:   Building fraud strategies to identify high risk customers and segmenting customers for an experience proportional to                       their risk
+        -**Banking**:   Building fraud strategies to identify high risk customers and segmenting customers for an experience proportional to                       their risk
                       Identify process gaps to reduce business losses
   
-        -*Retail*:    Building customer churn dashboard to identify the losing customers and improve customer loyalty
+        -**Retail**:    Building customer churn dashboard to identify the losing customers and improve customer loyalty
         
-        -*Insurance*: Identifying target segments of competitors
+        -**Insurance**: Identifying target segments of competitors
 
 Coming to programming, I am super comfortable in writing SQL-R codes. 
 
