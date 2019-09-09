@@ -7,8 +7,9 @@
 
 **Discover Products: Fraud Strategy Team<br />**
   *R, Teradata SQL, Tableau*<br /><br />
+Working on both side of the business: Reducing fraud lossed by building analytical frameworks and increasing account application conversions by identifying low fraud risk populations
 
-  - Building analytical frameworks around fraud and tuning existing fraud strategies to mitigate fraud risk
+<br />
 
 **Quantium: Loyalty Analytics Team<br />**
   *R, Teradata SQL, Excel, VBA, Spark*<br /><br />
