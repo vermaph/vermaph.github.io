@@ -7,7 +7,7 @@
 
 **Discover Products: Fraud Strategy Team<br />**
   *R, Teradata SQL, Tableau*<br /><br />
-Working on both side of the business: Reducing fraud lossed by building analytical frameworks and increasing account application conversions by identifying low fraud risk populations
+Working on both side of the business: Reducing fraud losses by building analytical frameworks and increasing account application conversions by identifying low fraud risk populations
 
 <br />
 
