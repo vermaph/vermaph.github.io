@@ -7,7 +7,7 @@
 
 **Lead Data Science Analyst, Discover Bank - Chicago USA<br />**
   *SnowFlake, AirFlow, R, Teradata SQL, Tableau*<br /><br />
-Responsible for creating fraud prevention strategies, improving existing onees, building reporting layers in Tableau and tracking metrics to lookout for any emerging fraud attacks. 
+Responsible for creating fraud prevention strategies, improving existing ones, building reporting layers in Tableau and tracking metrics to lookout for any emerging fraud attacks. Corrdinating with stakeholders for communicating insights and partners to implement stratgies and mitigate fraud losses.
 
 
 <br />
