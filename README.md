@@ -2,12 +2,5 @@
 # Welcome !!!!
 
 
-Thanks for coming here. 
 
-This is the space where I am maintaining my web-portfolio. I am regularly updating my profile and adding projects to showcase my data science skill-sets.
-
-I am data science professional with 5+ years in the field. I have worked in India, Australia and currently in USA.
-
-My next goal for my pet project: *To build a web-application (or a web-visualization) analyzing live streaming of some kind of user data using Pyspark (can be twitter/instagram or soemthing else, mainly coming from an API)*.  
-
-If my profile interests you, let's connect and discuss. 
+Step into my captivating web-portfolio, where a seasoned data science professional with 10 years of industrial prowess awaits to astound you. Hailing from diverse global ventures in India, Australia, and now the USA, I am a visionary who crafts data-driven narratives that reshape businesses. My ambitious pet project is on the horizon - envision a dynamic web-application fueled by the magic of Pyspark, analyzing live user data from Twitter, Instagram, or other alluring APIs, unravelling real-time insights that revolutionize decision-making. Continuously evolving, my profile showcases a rich tapestry of projects that exhibit the finesse of my data science skill-sets. If this intrigues you, let's connect
