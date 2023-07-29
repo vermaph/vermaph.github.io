@@ -7,13 +7,13 @@
 
 ### Hello - नमस्ते - Hola - 你好!! 
 
-My name is Piyush Verma and I am a data analytics professional based out of Chicago USA. Currently I am a Lead Analyst in the fraud strategy team at Discover Financial Services. I am the first line of defense for Discover in stopping fraudulent applications to enter the system. I deep-dive into application data to discover fraud patterns and create targeted fraud rules. Recently, I was nominated for Discover President Award 2021 for my work on revamping the decisioning framework.
+As an experienced Data Scientist at Home Depot, I drive the development and deployment of advanced machine learning models to unlock strategic marketing insights and enhance the customer experience. Proficient in Python, SQL, R, Google Cloud, BigQuery, and Tableau, I deliver data-driven solutions that optimize business performance.
 
-I have a Masters degree in Business Analytics from the [University of Cincinnati](http://business.uc.edu/), graduating in 2018. I completed courses on Statistics, Probability Modelling, Machine Learning, Process Simulation and Optimization among many others. I was successful in boosting my statistical knowledge, getting more hands-on with tools-techniques-algorithms and exposure to myriad of analytics practices. 
+During my tenure as Lead Data Science Analyst at Discover Financial Services, I spearheaded the creation of a game-changing fraud decision framework, significantly improving fraud detection rates by 30% and reducing losses by $10 million in FY 2020. My exceptional contributions earned recognition within the esteemed fraud strategy team.
 
-Before enrolling in my masters in 2017, I worked as a Data Analyst for a Sydney based management consulting firm called [Quantium Analytics](https://www.quantium.com/) from 2014 to 2017. I worked on generating competitive intelligence insights for an insurance client and supported a supermarket client in revamping their $500 million loyalty rewards program. This experience acted as the launch pad for my career into data science. I have worked in India, Australia and now building career in US. 
+With an MS in Business Analytics from the esteemed [University of Cincinnati](https://business.uc.edu/) and a background in Materials Engineering from the renowned [Indian Institute of Technology (IIT) - Kharagpur](https://www.iitkgp.ac.in/), I possess a strong foundation for solving complex business problems with data and analytics.
 
-I have completed my undergraduate and postgraduate degrees in engineering from [Indian Institute of Technology (IIT) - Kharagpur](http://www.iitkgp.ac.in/) in 2014.
+Previously, as a Data Analyst at Quantium Analytics, I gained valuable experience in generating competitive intelligence insights for an insurance client and revitalizing a $500 million loyalty rewards program for a supermarket client. Now, building my career in the US, I remain passionate about continuous learning and leveraging innovative technologies to make a positive impact in the world of data science.
 
 
 
