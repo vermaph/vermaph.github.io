@@ -5,14 +5,17 @@
 
 <br/>
 
-**Lead Data Science Analyst, Discover Bank - Chicago USA<br />**
+**Senior Data Scientist, Home Depot - Atlanta<br />**
+  *Google Cloud Platform*<br /><br />
+
+**Lead Data Science Analyst, Discover Bank - Chicago<br />**
   *SnowFlake, AirFlow, R, Teradata SQL, Tableau*<br /><br />
 Responsible for creating fraud prevention strategies, improving existing ones, building reporting layers in Tableau and tracking metrics to lookout for any emerging fraud attacks. Coordinating with stakeholders for communicating insights and partners to implement strategies and keeping fraud losses under control.
 
 
 <br />
 
-**Analyst, Quantium Analytics - Sydney Australia<br />**
+**Analyst, Quantium Analytics - Sydney<br />**
   *R, Teradata SQL, Excel, VBA, Spark*<br /><br />
 Worked closely with the General Manager of the Loyalty Rewards Program of one of the Australian supermarket giant. Projects were related to understanding the engagement of the shoppers with the loyalty program, customer segmentation and creating reporting layers. Some of the tasks were:<br />
 
@@ -33,4 +36,15 @@ Worked closely with the General Manager of the Loyalty Rewards Program of one of
  **Graduate Analyst, Quantium Analytics - Hyderabad India**<br />
   *R, SQL, Excel, VBA*<br /><br />
 Generated competitive intelligence insights for an insurance client, focusing on comprehensive car insurance. Insights enabled client to understand their competitiveness against other competitors. I mainly used Lasso Regression technique to identify the factors determining a competitor's premiums. The data used for the analysis was collected by scraping multiple competitors' website for a number of customer segments. Apart from working on the regular deliverables, I also improved the process by: 
-  - Adding a layer of quality check to spot online premium discounts. For this I integrated EXCEL with the SQL tables. This simple idea tracked the premium for the same quote every week and if any competitor offered a new online discount, it would track it and made sure the analyst didn't miss it in the analysis.  
+  - Adding a layer of quality check to spot online premium discounts. For this I integrated EXCEL with the SQL tables. This simple idea tracked the premium for the same quote every week and if any competitor offered a new online discount, it would track it and made sure the analyst didn't miss it in the analysis.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NSNZ1PS7E4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NSNZ1PS7E4');
+</script>
+
