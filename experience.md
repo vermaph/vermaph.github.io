@@ -9,9 +9,13 @@
   *Google Cloud Platform*<br /><br />
   Marketing Data Science 
 
+
+
 **Lead Data Science Analyst, Discover Bank - Chicago (~3 years)<br />**
   *SnowFlake, AirFlow, R, Teradata SQL, Tableau*<br /><br />
   Banking Fraud (First & Third Party)
+
+
 
 **Analyst, Quantium Analytics - Sydney (~3 years)<br />**
   *R, Teradata SQL, Excel, VBA, Spark*<br /><br />
