@@ -6,19 +6,19 @@
 <br/>
 
 **Senior Data Scientist, Home Depot - Atlanta (~2 years)<br />**
-  *Google Cloud Platform*<br /><br />
+  *Google Cloud Platform*<br />
   Marketing Data Science 
 
 
 
 **Lead Data Science Analyst, Discover Bank - Chicago (~3 years)<br />**
-  *SnowFlake, AirFlow, R, Teradata SQL, Tableau*<br /><br />
+  *SnowFlake, AirFlow, R, Teradata SQL, Tableau*<br /
   Banking Fraud (First & Third Party)
 
 
 
 **Analyst, Quantium Analytics - Sydney (~3 years)<br />**
-  *R, Teradata SQL, Excel, VBA, Spark*<br /><br />
+  *R, Teradata SQL, Excel, VBA, Spark*<br /
   Loyalty Analytics, Pricing Analytics / Competitive Intelligence
 
 <br />
