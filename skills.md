@@ -17,3 +17,12 @@
 * **Operating System:** Windows, Linux<br />
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NSNZ1PS7E4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NSNZ1PS7E4');
+</script>
