@@ -15,6 +15,15 @@ With an MS in Business Analytics from the esteemed [University of Cincinnati](ht
 
 Previously, as a Data Analyst at Quantium Analytics, I gained valuable experience in generating competitive intelligence insights for an insurance client and revitalizing a $500 million loyalty rewards program for a supermarket client. Now, building my career in the US, I remain passionate about continuous learning and leveraging innovative technologies to make a positive impact in the world of data science.
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NSNZ1PS7E4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NSNZ1PS7E4');
+</script>
 
 
 
