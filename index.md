@@ -7,13 +7,12 @@
 
 ### Hello - नमस्ते - Hola - 你好!! 
 
-As an experienced Data Scientist at Home Depot, I drive the development and deployment of advanced machine learning models to unlock strategic marketing insights and enhance the customer experience. Proficient in Python, SQL, R, Google Cloud, BigQuery, and Tableau, I deliver data-driven solutions that optimize business performance.
+As a Senior Data Scientist at Home Depot, USA I oversee ML-driven marketing data science for the Pro business . I am in charge of production model development and end-to-end ML. Providing DS thought leadership, assisting the team's junior data scientists, supervising pro model building projects, and overseeing the work of offshore analysts are some of my broader responsibilities. 
+These ML models allow the creation of audiences for multichannel Pro campaigns, as well as the creation and maintenance of personas, marketing funnels, and measurement setups. My role's goal is to consistently deliver results by increasing campaign engagement, iROAS and owning data products.
 
-During my tenure as Lead Data Science Analyst at Discover Financial Services, I spearheaded the creation of a game-changing fraud decision framework, significantly improving fraud detection rates by 30% and reducing losses by $10 million in FY 2020. My exceptional contributions earned recognition within the esteemed fraud strategy team.
+I have also worked for Discover Bank USA as a Lead Analyst for 3 years, where I used data to create a game-changing fraud decision framework, significantly improving first & thrid party combined fraud detection rates by 30% and by estimate saved around $10 Million for FY2021. Moreover, I upskilled my managers in data tools such as SQL, Tableau and created a fun learning environment. 
 
-With an MS in Business Analytics from the esteemed [University of Cincinnati](https://business.uc.edu/) and a background in Materials Engineering from the renowned [Indian Institute of Technology (IIT) - Kharagpur](https://www.iitkgp.ac.in/), I possess a strong foundation for solving complex business problems with data and analytics.
-
-Previously, as a Data Analyst at Quantium Analytics, I gained valuable experience in generating competitive intelligence insights for an insurance client and revitalizing a $500 million loyalty rewards program for a supermarket client. Now, building my career in the US, I remain passionate about continuous learning and leveraging innovative technologies to make a positive impact in the world of data science.
+I have a MS in Data Science from [University of Cincinnati](https://business.uc.edu/) and a Bachelors in Materials Engineering from the [Indian Institute of Technology (IIT) - Kharagpur](https://www.iitkgp.ac.in/). I am also pursuing a part-time Executive MBA program to hone my leadership skills.
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NSNZ1PS7E4"></script>
