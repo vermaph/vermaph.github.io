@@ -32,37 +32,6 @@
         <a href="https://github.com/vermaph/Codes">GitHub</a><br/>
         <a href="https://stackoverflow.com/users/5750741/grammilo">StackOverFlow</a><br/>
         <a href="https://www.hackerrank.com/vermaph">HackerRank</a><br/>
-        
-        <audio autoplay loop>
-        <source src="ttwii.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-        </audio>
-
-        <audio id="bgMusic" autoplay loop>
-        <source src="ttwii.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-        </audio>
-
-        <script>
-        function toggleBackgroundMusic() {
-        var audio = document.getElementById('bgMusic');
-        if (audio.paused) {
-        audio.play();
-        localStorage.setItem('bgMusic', 'on');
-        } else {
-        audio.pause();
-        localStorage.setItem('bgMusic', 'off');
-        }
-        }
-        
-        document.addEventListener('DOMContentLoaded', function () {
-        var bgMusicState = localStorage.getItem('bgMusic');
-        if (bgMusicState === 'off') {
-        var audio = document.getElementById('bgMusic');
-        audio.pause();
-        }
-        });
-        </script>
 
 
         {% if site.github.is_project_page %}
