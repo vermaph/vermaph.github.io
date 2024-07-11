@@ -41,7 +41,7 @@ Part of a data challenge to identify potentially risky new insurance policies ba
   *R, K-means clustering, Hypothesis Testing, HR Analytics*<br />
   Worked on a case study project with a retail client in Cincinnati. The aim of the project was to identify its potential stores which may go dysfuntional in the near future because of any kind of activities related to dissatisfied employees. The data used for the analysis was at the store level having attributes related to employees. The recommendations given to the client were well received and were in-line with their expectations. 
 
-  <!-- Google tag (gtag.js) -->
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NSNZ1PS7E4"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
