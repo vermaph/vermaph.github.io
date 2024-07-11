@@ -14,36 +14,47 @@ I have also worked for Discover Bank USA as a Lead Analyst for 3 years, where I 
 I have a MS in Data Science from [University of Cincinnati](https://business.uc.edu/) and a Bachelors in Materials Engineering from the [Indian Institute of Technology (IIT) - Kharagpur](https://www.iitkgp.ac.in/). I am also pursuing a part-time Executive MBA program to hone my leadership skills.
 
 
-<audio autoplay loop>
-<source src="ttwii.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+<audio id="bgMusic" autoplay loop>
+    <source src="ttwii.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
 </audio>
+
 
 <audio id="bgMusic" autoplay loop>
-<source src="ttwii.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+    <source src="ttwii.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
 </audio>
 
-<script>
-function toggleBackgroundMusic() {
-var audio = document.getElementById('bgMusic');
-if (audio.paused) {
-audio.play();
-localStorage.setItem('bgMusic', 'on');
-} else {
-audio.pause();
-localStorage.setItem('bgMusic', 'off');
-}
-}
 
+<script>
 document.addEventListener('DOMContentLoaded', function () {
-var bgMusicState = localStorage.getItem('bgMusic');
-if (bgMusicState === 'off') {
-var audio = document.getElementById('bgMusic');
-audio.pause();
-}
+    // Check if background music state is stored in localStorage
+    var bgMusicState = localStorage.getItem('bgMusic');
+    var audio = document.getElementById('bgMusic');
+
+    // If bgMusicState is 'off', pause the music
+    if (bgMusicState === 'off') {
+        audio.pause();
+    }
+
+    // Function to toggle background music
+    function toggleBackgroundMusic() {
+        if (audio.paused) {
+            audio.play();
+            localStorage.setItem('bgMusic', 'on');
+        } else {
+            audio.pause();
+            localStorage.setItem('bgMusic', 'off');
+        }
+    }
+
+    // Event listener to toggle music on button click
+    document.getElementById('toggleMusicButton').addEventListener('click', function () {
+        toggleBackgroundMusic();
+    });
 });
 </script>
+
 
 
 
