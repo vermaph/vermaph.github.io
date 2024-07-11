@@ -13,6 +13,40 @@ I have also worked for Discover Bank USA as a Lead Analyst for 3 years, where I 
 
 I have a MS in Data Science from [University of Cincinnati](https://business.uc.edu/) and a Bachelors in Materials Engineering from the [Indian Institute of Technology (IIT) - Kharagpur](https://www.iitkgp.ac.in/). I am also pursuing a part-time Executive MBA program to hone my leadership skills.
 
+
+<audio autoplay loop>
+<source src="ttwii.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<audio id="bgMusic" autoplay loop>
+<source src="ttwii.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<script>
+function toggleBackgroundMusic() {
+var audio = document.getElementById('bgMusic');
+if (audio.paused) {
+audio.play();
+localStorage.setItem('bgMusic', 'on');
+} else {
+audio.pause();
+localStorage.setItem('bgMusic', 'off');
+}
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+var bgMusicState = localStorage.getItem('bgMusic');
+if (bgMusicState === 'off') {
+var audio = document.getElementById('bgMusic');
+audio.pause();
+}
+});
+</script>
+
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NSNZ1PS7E4"></script>
 <script>
