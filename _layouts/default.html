@@ -38,6 +38,32 @@
         Your browser does not support the audio element.
         </audio>
 
+        <audio id="bgMusic" autoplay loop>
+        <source src="ttwii.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+        </audio>
+
+        <script>
+        function toggleBackgroundMusic() {
+        var audio = document.getElementById('bgMusic');
+        if (audio.paused) {
+        audio.play();
+        localStorage.setItem('bgMusic', 'on');
+        } else {
+        audio.pause();
+        localStorage.setItem('bgMusic', 'off');
+        }
+        }
+        
+        document.addEventListener('DOMContentLoaded', function () {
+        var bgMusicState = localStorage.getItem('bgMusic');
+        if (bgMusicState === 'off') {
+        var audio = document.getElementById('bgMusic');
+        audio.pause();
+        }
+        });
+        </script>
+
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</small></a></p>
