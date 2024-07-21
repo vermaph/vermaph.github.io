@@ -12,13 +12,13 @@
 
 
 **Lead Data Science Analyst, Discover Bank - Chicago (~3 years)<br />**
-  *Banking Fraud (First & Third Party) - Responsible for creating data-driven first line of defense for entire Discover's Consumer Banking products (Checking, Saving, CD, MMA, IRA). Created an application fraud prevention framework (for entire consumer banking protfolio) by utilizing 1P, 3P biometric data and creating new strategies, combining new with existing strategies, combined both heuristic and probabilistic ML models to create a waterfall through which application goes through before getting either refered to field employees or getting converted. Within months of implementation - framewoek thwarted a major multi-million fraud attack orchestrated on Checking Accounts*<br />
+  *Banking Fraud (First & Third Party) - Responsible for creating data-driven first line of defense for entire Discover's Consumer Banking products (Checking, Saving, CD, MMA, IRA). Created an application fraud prevention framework (for entire consumer banking portfolio) by utilizing 1P, 3P biometric data and creating new strategies, combining new with existing strategies, combined both heuristic and probabilistic ML models to create a waterfall through which application goes through before getting either refered to field employees or getting converted. Within months of implementation - framework thwarted a major multi-million fraud attack orchestrated on Checking Accounts*<br />
   <br />
   <br />
 
 
 **Analyst, Quantium Analytics - Sydney (~3 years)<br />**
-  *Loyalty Analytics, Pricing Analytics / Competitive Intelligence - Contributed on projects involving customer segmentation for a retail client seeking to maximize their loyalty programs outreach in order to boost customer engagement. Also deconstructed competitor auto insurance pricing and prdocued valuable insights using methods like Lasso Regression*<br />
+  *Loyalty Analytics, Pricing Analytics / Competitive Intelligence - Contributed on projects involving customer segmentation for a retail client seeking to maximize their loyalty programs outreach in order to boost customer engagement. Also deconstructed competitor auto insurance pricing and produced valuable insights using methods like Lasso Regression*<br />
   <br />
   <br />
 
