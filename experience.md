@@ -6,19 +6,19 @@
 <br/>
 
 **Senior Data Scientist, Home Depot - Atlanta (~2 years)<br />**
-  *Online Marketing Data Science - Responsible for achieving broader personalization goals of the Pro and Home Services community by leveraging Data Science and ML. Responsible for the orchestration and development of BQML models in GCP (Google Cloud) enabling strategic omnichannel audience targeting, and setting up A/B tests. Responsibility also includes project scoping, process transformation, delegation and partnering with Audience Strategy, Media, Creative, Adops, Customer Identity and Engineering teams.*<br />
+  *Online Marketing Data Science - Responsible for achieving broader personalization goals of the Pro and Home Services community by leveraging Data Science and ML. Responsible for the orchestration and development of BQML models in GCP (Google Cloud) enabling strategic omnichannel audience targeting, and setting up A/B tests. Responsibility also includes project scoping, process transformation, delegation and partnering with Audience Strategy, Media, Creative, Adops, Customer Identity and Engineering teams*<br />
   <br />
   <br />
 
 
 **Lead Data Science Analyst, Discover Bank - Chicago (~3 years)<br />**
-  *Banking Fraud (First & Third Party) - Responsible for creating data-driven first line of defense for entire Discover's Consumer Banking products (Checking, Saving, CD, MMA, IRA). Created an application fraud prevention framework (for entire consumer banking protfolio) by utilizing 1P, 3P biometric data and creating new strategies, combining new with existing strategies, combined both heuristic and probabilistic ML models to create a waterfall through which application goes through before getting either refered to field employees or getting converted. Within months of implementation - framewoek thwarted a major multi-million fraud attack orchestrated on Checking Accounts. *<br />
+  *Banking Fraud (First & Third Party) - Responsible for creating data-driven first line of defense for entire Discover's Consumer Banking products (Checking, Saving, CD, MMA, IRA). Created an application fraud prevention framework (for entire consumer banking protfolio) by utilizing 1P, 3P biometric data and creating new strategies, combining new with existing strategies, combined both heuristic and probabilistic ML models to create a waterfall through which application goes through before getting either refered to field employees or getting converted. Within months of implementation - framewoek thwarted a major multi-million fraud attack orchestrated on Checking Accounts*<br />
   <br />
   <br />
 
 
 **Analyst, Quantium Analytics - Sydney (~3 years)<br />**
-  *Loyalty Analytics, Pricing Analytics / Competitive Intelligence - Contributed on projects involving customer segmentation for a retail client seeking to maximize their loyalty programs outreach in order to boost customer engagement. Also deconstructed competitor auto insurance pricing and prdocued valuable insights using methods like Lasso Regression. *<br />
+  *Loyalty Analytics, Pricing Analytics / Competitive Intelligence - Contributed on projects involving customer segmentation for a retail client seeking to maximize their loyalty programs outreach in order to boost customer engagement. Also deconstructed competitor auto insurance pricing and prdocued valuable insights using methods like Lasso Regression*<br />
   <br />
   <br />
 
