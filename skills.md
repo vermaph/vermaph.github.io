@@ -12,9 +12,9 @@
 * **Machine Learning:** Regression, Classification, Text-Mining, Recommender System  <br />
 * **Algorithms:** Linear Regression, Logistic Regression, K Nearest Neighbour, Discriminant Analysis, Decision Tree, Random Forest, Support Vector Machine, K-Means Clustering, Hierarchical Clsutering, Dimensionality Reduction Algorithms, XGBoost  <br />
 * **Programming Languages:** R, Python, SQL, Teradata, SAS, C++, HTML  <br />
-* **Libraries:** ggplt, tidyr, dplyr, caret, glmnet, numpy, scikit, pandas, matplotlib  <br />
-* **Softwares:** Git, Tableau, R Shiny, Jupyter Notebook, Arena for simulation, FICO Xpress, Microsoft Office, Excel, Powerpoint, Word  <br />
-* **Operating System:** Windows, Linux<br />
+* **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow, PyTorch, ggplot2, dplyr, RShiny  <br />
+* **Softwares:** Git, Tableau, R Shiny, Jupyter Notebook, Arena for simulation, Microsoft Office, Excel, Powerpoint, Word  <br />
+* **Operating System:** MacOS, Windows<br />
 
 
 <!-- Google tag (gtag.js) -->
