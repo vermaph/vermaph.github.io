@@ -7,53 +7,11 @@
 
 ### Hello - नमस्ते - Hola - 你好!! 
 
-As a Senior Data Scientist at Home Depot, USA I oversee ML-driven audience marketing strategies for the Pro business . I am in charge of transforming targeting strategy needs into ML driven solutions. Day to day I am in charge of production model development and end-to-end ML. Providing DS thought leadership, building POCs, exploring new datasets for signals, assisting the team's junior data scientists, supervising ML projects, and overseeing the work of offshore analysts are some of my broader responsibilities. I cross over into digital marketing by creation of audiences for multichannel Pro campaigns, as well as the discovery and maintenance of Pro personas, marketing funnels, and measurement setups. My role's goal is to consistently deliver results by increasing campaign engagement, iROAS and owning data products.
+In my latest role as a Senior Data Scientist at Home Depot, USA I oversaw ML-driven audience marketing strategies for the Pro business and Home Services. I was in charge of transforming targeting strategy needs into ML driven solutions. Day to day I was in charge of production model development and end-to-end ML. Providing DS thought leadership, building POCs, exploring new datasets for signals, assisting the team's junior data scientists, supervising ML projects, and overseeing the work of offshore analysts were some of my broader responsibilities. I crossed over into digital marketing by creation of audiences for multichannel Pro campaigns, as well as the discovery and maintenance of customer personas, marketing funnels, and measurement setups. My role's goal was to consistently deliver results by increasing campaign engagement, iROAS and owning data products.
 
-I have also worked for Discover Bank USA as a Lead Analyst for 3 years, where I used web and customer data to create a game-changing fraud decision framework, significantly improving first & third party combined fraud detection rates by 30% and by estimate saved around $10 Million for FY2021. 
+I have also worked for Discover Bank USA as a Lead Analyst for 3 years, where I combined internal and external vendor data to create a game-changing multi-layered fraud decision framework, significantly improving first & third party combined fraud detection rates by 30% and by estimate saved around $10 Million for FY2021. 
 
 I have a MS in Data Science from [University of Cincinnati](https://business.uc.edu/) and a Bachelors in Materials Engineering from the [Indian Institute of Technology (IIT) - Kharagpur](https://www.iitkgp.ac.in/). I am also pursuing a part-time Executive MBA program to hone my leadership skills.
-
-
-<audio id="bgMusic" autoplay loop>
-    <source src="ttwii.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
-
-
-<audio id="bgMusic" autoplay loop>
-    <source src="ttwii.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
-
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-    // Check if background music state is stored in localStorage
-    var bgMusicState = localStorage.getItem('bgMusic');
-    var audio = document.getElementById('bgMusic');
-
-    // If bgMusicState is 'off', pause the music
-    if (bgMusicState === 'off') {
-        audio.pause();
-    }
-
-    // Function to toggle background music
-    function toggleBackgroundMusic() {
-        if (audio.paused) {
-            audio.play();
-            localStorage.setItem('bgMusic', 'on');
-        } else {
-            audio.pause();
-            localStorage.setItem('bgMusic', 'off');
-        }
-    }
-
-    // Event listener to toggle music on button click
-    document.getElementById('toggleMusicButton').addEventListener('click', function () {
-        toggleBackgroundMusic();
-    });
-});
-</script>
 
 
 
