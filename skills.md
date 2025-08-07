@@ -7,8 +7,8 @@
 
 ### Certificate: 
 
-* **Google Digital Marketing and E-Commerce Specialization:** A 7 course specialization from Google Academy. Skills learnt: SEO, SEM, social media marketing, and online retail strategies. Link to certificate [here](https://www.coursera.org/account/accomplishments/professional-cert/MN6QHGP1WYGG).
-* **Data Science Specialization:**  A 10-course specialization by Johns Hopkins University on Coursera. Specialization Certificate earned on March 25, 2018. Link to certificate [here](https://www.coursera.org/account/accomplishments/specialization/6UFAFQ6NL8TA).
+* **Google Digital Marketing and E-Commerce Specialization:** 7-course specialization from Google Academy. Skills learnt: SEO, SEM, social media marketing, and online retail strategies. Link to certificate [here](https://www.coursera.org/account/accomplishments/professional-cert/MN6QHGP1WYGG).
+* **Data Science Specialization:**  10-course specialization by Johns Hopkins University on Coursera. Specialization Certificate earned on March 25, 2018. Link to certificate [here](https://www.coursera.org/account/accomplishments/specialization/6UFAFQ6NL8TA).
 
 ### Skills:
 * **Machine Learning:** Regression, Classification, Text-Mining, Recommender System, Deep Learning (RNN, CNN, LSTM, Transformers)  <br />
