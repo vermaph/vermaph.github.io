@@ -5,7 +5,7 @@
 
 <br/>
 
-**Senior Data Scientist, Home Depot - Atlanta ( 2022 - Present ) <br />**
+**Senior Data Scientist, Home Depot - Atlanta ( 2022 - 2025 ) <br />**
   *Online Marketing Data Science - Responsible for achieving broader personalization goals of the Pro and Home Services community by leveraging Data Science and ML. Responsible for the orchestration and development of BQML models in GCP (Google Cloud) enabling strategic omnichannel audience targeting, setting up A/B tests, customer persona development and marketing funnel creations. Responsibility also includes project scoping, process transformation, delegation and partnering with Audience Strategy, Media, Creative, Adops, Customer Identity and Engineering teams*<br />
   <br />
   <br />
